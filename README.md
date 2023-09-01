@@ -1,1 +1,1 @@
-This is the alx low level pragramming on shell basics
+THIS IS THE ALX LOW LEVEL PROGRAMMING ON SHELL BASICS
