@@ -1,2 +1,2 @@
-variable expansion and alias task from alx
+#!/bin/bash
 0x03. Shell, init files, variables and expansions
